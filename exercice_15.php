@@ -9,7 +9,7 @@
 </head>
 <body>
     <?php
-    echo  "Mi primer script de php";
+    $array = array ()
     ?>
     
     
